@@ -32,7 +32,7 @@ This project is an interactive Power BI dashboard built using Superstore sales d
 > Line chart showing sales performance over time, helping to identify seasonal trends and growth patterns.
 
 ### Category Filter
-![Slicer](screenshots/Slicer_filter.png)
+![Slicer](screenshots/Slicer-filter.png)
 > Interactive slicer enabling users to filter all visuals by product category (e.g., Technology, Furniture).
 
 ## 🧠 Insights
